@@ -47,6 +47,10 @@ Please note it is not necessary to monitor the chat - the helpers will make sure
 
 [link](https://esciencecenter-digital-skills.github.io/2024-02-26-ds-cr/#setup)
 
+Slides
+
+[link](https://lyashevska.github.io/ds-cr-slides/)
+
 ## 👩‍🏫👩‍💻🎓 Instructors
 
 Sander van Rijn, Sven van der Burg, Olga Lyashevska
